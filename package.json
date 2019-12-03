@@ -15,6 +15,7 @@
     "bs-platform": "^7.0.0-dev.1"
   },
   "dependencies": {
+    "bs-let": "^0.1.11",
     "got": "^10.0.1"
   }
 }
